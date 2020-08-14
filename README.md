@@ -11,3 +11,6 @@
 
 
 An In-depth analysis of a bank marketing scheme that was proposed and the success was measured depending on if the customer opened a fixed deposit in that bank. This implementation makes use of seaborn and matplotlib for visualization. Almost each and every aspect is compared. Also, the classifier used is XGBoost classifier which gives a slightly better accuracy than most of the classifiers that were used for this project. A detailed analysis can be found in the pdf committed in this repository.  
+
+
+![xgCR](https://user-images.githubusercontent.com/41390965/90259643-ff090380-de67-11ea-9e9a-848e1ed1f241.PNG)
